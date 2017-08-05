@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
-  
+  <title>Ethan&#39;s Blog</title>
+  <subtitle>-- a developer&#39;s self cultivation</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-08-03T01:09:11.000Z</updated>
+  <updated>2017-08-05T00:45:30.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,27 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>A funny leetcode solution post</title>
+    <link href="http://yoursite.com/2017/08/04/A-funny-leetcode-solution-post/"/>
+    <id>http://yoursite.com/2017/08/04/A-funny-leetcode-solution-post/</id>
+    <published>2017-08-05T00:45:09.000Z</published>
+    <updated>2017-08-05T00:45:30.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="H-Index"><a href="#H-Index" class="headerlink" title="H-Index"></a>H-Index</h2><p>评论： 这个答案的帖子实在太欢乐了，成了中国苦逼leetcoder的报名帖了。</p>
+<p>Link is here: <a href="https://discuss.leetcode.com/topic/23307/my-o-n-time-solution-use-java" target="_blank" rel="external">https://discuss.leetcode.com/topic/23307/my-o-n-time-solution-use-java</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;H-Index&quot;&gt;&lt;a href=&quot;#H-Index&quot; class=&quot;headerlink&quot; title=&quot;H-Index&quot;&gt;&lt;/a&gt;H-Index&lt;/h2&gt;&lt;p&gt;评论： 这个答案的帖子实在太欢乐了，成了中国苦逼leetcoder的报名帖了。&lt;/p&gt;
+&lt;p&gt;Lin
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Leetcode weird solutions I</title>
